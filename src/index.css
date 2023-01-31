@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.pvHeader {
+  @apply font-bold border-b-[1px] border-slate-600 text-xl;
+}
